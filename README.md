@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaviSMetri
 - 👀 I’m interested in - Artificial Intelligence
-- 🌱 I’m currently learning - Algorithm
-- 💞️ I’m looking to collaborate on ... Aerospace
+- 🌱 I’m currently learning - Algorithms
+- 💞️ I’m looking to collaborate on ... Aerospace Domain
 - 📫 How to reach me ...ravimetri123@gmail.com
 
 <!---
